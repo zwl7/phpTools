@@ -188,8 +188,8 @@ if (!function_exists('get_file')) {
 
     // 调用例子
     /*$url = "http://47.97.185.94/demo.xls";
-    $save_dir = "./";
+    $saveDir = "./";
     $filename = "test.xls";
-    $res = get_file($url, $save_dir, $filename, 1);
+    $res = get_file($url, $saveDir, $filename, 1);
     var_dump($res);*/
 }
